@@ -1,0 +1,4 @@
+---
+# vars file for myrole
+package_name: httpd
+
